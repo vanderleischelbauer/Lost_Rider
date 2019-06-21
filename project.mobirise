@@ -1,0 +1,1153 @@
+{
+  "settings": {
+    "name": "AsViagensDeO_Braiam",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#3d8eb9",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#b6b5b5",
+        "#a39f9f"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.3",
+    "siteFonts": [],
+    "uniqCompNum": 102,
+    "versionPublish": "4.10.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schelbauer.html\">Sobre o Artísta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videos_o_braiam.html\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactar.html\">Contato</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"buy.html\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"buy.html\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/o-braiam-1-104x128.jpg",
+              "height": 128,
+              "alt": "O Braiam",
+              "link": "index.html",
+              "title": "selfie2019"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"videos_o_braiam.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">As Viagens De O Braiam</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/myselfie2015-2-812x249.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br>Vanderlei Schelbauer",
+          "caption": "<p><br></p><p>Videos e experiências da linguagem audiovisual com imagens colhidas</p><p>com cameras sem muito propósito, entre documental e jornalístico, buscando a poesia&nbsp;<span style=\"font-size: 1.07rem;\">e o </span></p><p><span style=\"font-size: 1.07rem;\">momento emocional mágico que desperta nossas emoções positivas, alegres e inusitadas.</span></p><p>Carpe Diem</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2l"
+        }
+      ]
+    },
+    "buy.html": {
+      "settings": {
+        "meta_descr": "Página para compra de ingressos e imagens",
+        "title": "PayPal_PagSeguro",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schelbauer.html\">Sobre o Artísta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videos_o_braiam.html\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactar.html\">Contato</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"buy.html\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"buy.html\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/o-braiam-1-104x128.jpg",
+              "height": 128,
+              "alt": "O Braiam",
+              "link": "index.html",
+              "title": "selfie2019"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"videos_o_braiam.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">As Viagens De O Braiam</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-5"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tabela de Preços",
+          "subtitle": "Tabela sugerida:",
+          "title1": "Schelbauer",
+          "title2": "PREMIUM",
+          "title3": "Donation",
+          "title4": "ULTIMATE",
+          "subtitle1": "Artistas e Amigos",
+          "subtitle2": "Colaboradores",
+          "subtitle3": "Social Fiends",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "<a href=\"tel:+55 02161993879878\">O Braiam</a>",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "R$",
+          "currency2": "2$",
+          "currency3": "R$",
+          "currency4": "$",
+          "price1": "25",
+          "price2": "50",
+          "price3": "5",
+          "price4": "0",
+          "period1": ",00",
+          "period2": ",00",
+          "period3": ",00",
+          "period4": "/mo.",
+          "description1": "Conteúdo Audio Visual sobre artes plásticas do final do <br>Século XX, produzidos entre &nbsp;1988/1995",
+          "description2": "Conteúdo Audio Visual do Século XX<br>e todas as imagens e clips até 2019",
+          "description3": "Apenas para compartilhar seus sonhos,<br>o continuar com os meus.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">25 horas de clips</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">5.000 hs de videos</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Acesso restrito</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://pag.ae/7U-QkPK16\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://pag.ae/7U-QjmVxP\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://pag.ae/7U-QmAkhM\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACTAR",
+          "subtitle": "Dados aqui inseridos somente para contato pessoal e não consta em outro servidor.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contactar</a>",
+          "form": {
+            "action": "vander1964@gmail.com",
+            "alerts": {
+              "success": "Obrigado pelo contato. Ate breve."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone / watsapp (opcional)"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-n",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "contactar.html": {
+      "settings": {
+        "meta_descr": "O Braiam",
+        "title": "Contato",
+        "order": 10
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schelbauer.html\">Sobre o Artísta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videos_o_braiam.html\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactar.html\">Contato</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"buy.html\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"buy.html\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/o-braiam-1-104x128.jpg",
+              "height": 128,
+              "alt": "O Braiam",
+              "link": "index.html",
+              "title": "selfie2019"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"videos_o_braiam.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">As Viagens De O Braiam</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Somente Email",
+          "subtitle": "Subscribe to our Newsletter",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
+          "form": {
+            "action": "vander1964@gmail.com",
+            "alerts": {
+              "success": "Obrigado pelo contato."
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b6b5b5",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTATO&nbsp;",
+          "subtitle": "Seus dados",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contactar</a>",
+          "form": {
+            "action": "vander1964@gmail.com",
+            "alerts": {
+              "success": "Obrigado pelo contato, enviarei resposta brevemente."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone/Watsapp (opcional)"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-s",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "videos_o_braiam.html": {
+      "settings": {
+        "meta_descr": "Material com videos e fotos durante minha passagem por Aracajú em 2015  e 2019",
+        "title": "As viagens de O Braiam em Aracaju-SE",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00068-1-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/selfie2-861x600.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "LOST RIDER<br><span style=\"font-weight: normal;\">O nascimento de </span><br><span style=\"font-weight: normal;\">O Braiam</span>",
+          "text": "Saí de Brasilia em 2015 /16 para o sul do Brasil, e me perdi.  Sem destino passei por Goiás, Tocantins, Bahia, Piauí, Pernabuco, Aracajú, Espirito Santo, Rio de Janeiro e Minas Gerais e voltei para Brasilia. 8.000 Km de Moto. O Filme Completo Estréia em Junho de 2019.<br>Abaixo segue parte do filme com clips individuais.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contactar.html\" data-toolbar=\"-mbrBtnMove\">Cadastrar Email</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-1z"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#a39f9f",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/myselfie2015-941x297.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anderson-2-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/luciano-8-600x375.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/eu-e-nice-600x349.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/felipe-3-600x359.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nando-11-600x366.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kitesunday1-600x351.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Vôo de Paramotor",
+          "subtitle1": "Anderson Firmino",
+          "caption1": "Pit Stop na Praia de Aruanã - Aracajú - Sergipe 2015",
+          "title2": "Galera se divertindo",
+          "subtitle2": "Kitesurfistas",
+          "caption2": "Clip com a galera do Kite Surf &nbsp;na Praia de Aruanã - Aracajú - Sergipe 2015",
+          "title3": "Kite Girls",
+          "subtitle3": "Tres Kitesurfistas femininas earojadas",
+          "caption3": "Clip com as garotas do Kite Surf Praia de Aruanã - Aracajú - Sergipe 2015",
+          "title4": "Radicais",
+          "subtitle4": "Ousados e Perigosos",
+          "caption4": "Alguns saltos radicais de estrelas que passearam de Kite Surf em Aracajú - Sergipe 2015",
+          "title5": "Nando e seu Filho",
+          "subtitle5": "Pai Herói",
+          "caption5": "Momento mágico de um garoto aprendendo a surfar com seu pai.",
+          "title6": "Kite Point",
+          "subtitle6": "Point de Kite surf&nbsp;",
+          "caption6": "Kite Point na Praia de Aruanã - Aracajú - Sergipe 2015",
+          "button1": "<a data-app-btn=\"true\" href=\"anderson.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Assistir</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"kite.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Assistir</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"kitegirls.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Assistir</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"kiteradical.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Assistir</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"windsurf.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Assistir</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"getkite.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Assistir</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#a39f9f"
+            }
+          },
+          "_anchor": "features1-2k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "subtitle": "Subscribe to our Newsletter",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "form": {
+            "action": "vander1964@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2t"
+        }
+      ]
+    },
+    "anderson.html": {
+      "settings": {
+        "meta_descr": "Material com videos e fotos durante minha passagem por Aracajú em 2015  e 2019",
+        "title": "Anderson",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Página inicial</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"videos_o_braiam.html\" data-toolbar=\"-mbrBtnMove\">Clips Kite Surf</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2n"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anderson-2-600x338.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/6ciin0RcFzs",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-17"
+        }
+      ]
+    },
+    "kite.html": {
+      "settings": {
+        "meta_descr": "Material com videos e fotos durante minha passagem por Aracajú em 2015  e 2019",
+        "title": "Kite",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Página inicial</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"videos_o_braiam.html\" data-toolbar=\"-mbrBtnMove\">Clips Kite Surf</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2o"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/luciano-8-600x375.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/TrFNQLF9cis",
+              "active": true,
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1a"
+        }
+      ]
+    },
+    "kiteradical.html": {
+      "settings": {
+        "meta_descr": "Material com videos e fotos durante minha passagem por Aracajú em 2015  e 2019",
+        "title": "Kite Radical",
+        "order": 7
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Página inicial</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"videos_o_braiam.html\" data-toolbar=\"-mbrBtnMove\">Clips Kite Surf</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2q"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/felipe-3-600x359.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/cxgDarrGSuI",
+              "active": true,
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "O Player é",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1d"
+        }
+      ]
+    },
+    "getkite.html": {
+      "settings": {
+        "meta_descr": "Material com videos e fotos durante minha passagem por Aracajú em 2015  e 2019",
+        "title": "GetKite",
+        "order": 9
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Página inicial</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"videos_o_braiam.html\" data-toolbar=\"-mbrBtnMove\">Clips Kite Surf</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2s"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kitesunday1-600x351.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/KalnvpRjLec",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1j"
+        }
+      ]
+    },
+    "schelbauer.html": {
+      "settings": {
+        "meta_descr": "Videos com artistas trabalhando, realizados desde 1988 a 2000",
+        "title": "Schelbauer e seus videos ....",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/newselfie-941x600.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Em Construção...",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"videos_o_braiam.html\" data-toolbar=\"-mbrBtnMove\">LOST RIDER<br>O nascimento de O Braiam<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Voltar &nbsp;</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-w"
+        }
+      ]
+    },
+    "kitegirls.html": {
+      "settings": {
+        "meta_descr": "Material com videos e fotos durante minha passagem por Aracajú em 2015  e 2019",
+        "title": "Kite Girls",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Página inicial</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"videos_o_braiam.html\" data-toolbar=\"-mbrBtnMove\">Clips Kite Surf</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2p"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/eu-e-nice-600x349.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/Fm-9vUVibdQ",
+              "active": true,
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1p"
+        }
+      ]
+    },
+    "bodyboard.html": {
+      "settings": {
+        "meta_descr": "Material com videos e fotos durante minha passagem por Aracajú em 2015  e 2019",
+        "title": "Body Board",
+        "order": 8
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Página inicial</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"videos_o_braiam.html\" data-toolbar=\"-mbrBtnMove\">Clips Kite Surf</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2r"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nando-11-600x366.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/ZjUc-H5Xy5U",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1g"
+        }
+      ]
+    }
+  }
+}
